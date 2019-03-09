@@ -1,4 +1,6 @@
+<<<<<<< HEAD
 <? php
     
-    echo "Hello World";
+    echo "Hello World = Alo Mundo";
 ?>
+
